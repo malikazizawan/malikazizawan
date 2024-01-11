@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I am currently working on **wordpress, html, css, bootstrap, javascript, react**<br><br>- I am currently learning **backend**<br><br>- Ask me about **wordpress, html, css, bootstrap, javascript, react**<br><br>- How to reach me **pvtmalikazizawan@gmail.com**
+- I am currently working on **wordpress, html, css, bootstrap, javascript, react**<br><br>
+- I am currently learning **backend**<br><br>
+- Ask me about **wordpress, html, css, bootstrap, javascript, react**<br><br>
+- How to reach me **pvtmalikazizawan@gmail.com**
 
 
 ## 🌐 Socials:
