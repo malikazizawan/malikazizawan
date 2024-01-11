@@ -5,7 +5,7 @@
 - How to reach me **pvtmalikazizawan@gmail.com**
 
 
-## 🌐 Socials:
+## 📫 Connect with me on 🔗 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aziz-awan-2228b0273/) 
 
 # 💻 Tech Stack:
