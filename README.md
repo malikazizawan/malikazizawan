@@ -1,6 +1,4 @@
 ![image](https://github.com/malikazizawan/malikazizawan/assets/132234776/84ed907b-dcae-4fb6-b819-00f6f9758e0d)# 💫 About Me:
-![image with="400" ](https://github.com/malikazizawan/malikazizawan/assets/132234776/84da9a79-5801-4ca6-8093-56128686674c)
->
 - I am currently working on **wordpress, html, css, bootstrap, javascript, react**<br><br>
 - I am currently learning **backend**<br><br>
 - Ask me about **wordpress, html, css, bootstrap, javascript, react**<br><br>
